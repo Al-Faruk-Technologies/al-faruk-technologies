@@ -327,7 +327,7 @@ p{font-size:1rem;color:var(--gray-text);line-height:1.8}
 .about__badge{position:absolute;bottom:-20px;right:-14px;background:var(--navy-dark);color:white;border-radius:var(--r-lg);padding:var(--s-md) var(--s-lg);border:1px solid rgba(220,130,51,.4);box-shadow:var(--sh-accent-glow)}
 .about__badge strong{display:block;font-family:var(--font-mono);font-size:1.7rem;font-weight:800;color:var(--accent-light)}
 .about__badge span{font-size:.8rem;color:rgba(255,255,255,.7)}
-.about__cards{display:grid;grid-template-columns:1fr;gap:var(--s-md);margin-top:var(--s-lg)}
+.about__cards{display:grid;grid-template-columns:1fr 1fr;gap:var(--s-md);margin-top:var(--s-lg)}
 .about-card{border:1px solid #E2E5EA;border-radius:var(--r-lg);padding:var(--s-md);background:white;transition:var(--tr-med)}
 .about-card:hover{border-color:rgba(220,130,51,.4);box-shadow:0 10px 26px rgba(5,32,61,.08)}
 .about-card__icon{width:40px;height:40px;border-radius:var(--r-sm);background:rgba(220,130,51,.1);display:flex;align-items:center;justify-content:center;margin-bottom:var(--s-sm)}
